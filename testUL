@@ -1,0 +1,5 @@
+UNI.test
+su admin;
+test all;
+cd /root/etc/esc/
+end all;
