@@ -1,0 +1,12 @@
+UNI_License；
+use uni.logic_ver.6;
+use uni.steruaer_ver.6;
+uni.payuer;
+su UNI_CNSER_admin;
+su UNI_CNDB_admin;
+cd UNI.Server/root/etc/UNI./suer/test/AI/AISN/admin/LICENSECENTER/UNI.2.A/UNI.SCI.P.C./admin/;
+ctrl all ecpt UNI;
+su admin;
+cd etc/UNI;
+test -aux;
+end all;
