@@ -1,0 +1,8 @@
+>>>start all//
+>>>test process; 
+>>>test program;
+>>>finish all// 
+>>>test the db;
+>>>test the server;
+>>>test the server ip;
+>>>end all;
