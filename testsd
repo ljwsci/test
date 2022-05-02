@@ -1,0 +1,5 @@
+>>>test -s -d -aux;
+>>>for a ex;
+>>>test the connect;
+>>>end all;
+end process;
