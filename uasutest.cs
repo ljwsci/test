@@ -1,0 +1,23 @@
+>>>set uni.test/project;
+>>>set Uni.server/project;
+>>>connect vpn::192.168.211.7:8081;
+>>>set ip = a;
+>>>set url = ./server/cdb/etc/qapll/auxr/dll/ac;
+>>>set bp = 1;
+>>>set utc = 1;
+>>>set dal = 1;
+>>>set pcb = pub;
+>>>start col:/
+>>>r a = 1 & sus;
+>>>run bat for 7 again;
+>>>fu l;
+>>>su admin;
+>>>suruer acoll;
+>>>su pac;
+>>>su poc;
+>>>no bollion = t r again all;
+>>>collect img to server & sa tprl db;
+>>>su tab urt u = u0788sa;
+>>>set puil = 1;
+>>>run all;
+>>>end all;
