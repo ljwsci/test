@@ -1,0 +1,9 @@
+>>>test ubs.m;
+>>>inport ubs.m;
+>>>isr = #FFFFFF;
+>>>org 0000H;
+>>>insf ip = reset @ 0.0.0.0;
+>>>su poa = pw;
+>>>end all;
+>>>end process;
+>>>end;
