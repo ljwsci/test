@@ -1,0 +1,4 @@
+>>>su tests.accdb;
+>>>su uer.accde;
+>>>load aurl.js;
+>>>end;
